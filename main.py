@@ -35,7 +35,7 @@ allgive = "0"
 
 #Admins
 groupID = "-1001746087407"  ##GroupID
-UserNameBot = "@cheggbhaiya11_bot"  # User Name Bot
+UserNameBot = "@chegggggyyyyyy"  # User Name Bot
 #                           URLS
 BuySubscription = "@cheggbhaiya"
 PointPrices = "https://t.me/"
