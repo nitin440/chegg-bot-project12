@@ -20,7 +20,7 @@ from dateutil.relativedelta import *
 from datetime import timedelta
 
 #=======================    Variables to be Modified.   ====================
-TOKEN = "5612389165:AAGGAi1ybG-DhP81cC4ygn_e5eTRyI49zU4"  # Token BotFather
+TOKEN = "5579085411:AAG_XsdaYwX2tNe1CRJRVo138BN3arNtMDo"  # Token BotFather
 admins = ["1354393557", "", ""]  # UserID
 
 #point users
