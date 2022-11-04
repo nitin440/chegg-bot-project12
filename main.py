@@ -238,7 +238,7 @@ def chegg(update, context):
                 "Your subscription has expired !, contact owner @cheggbhaiya to buy credits!"
             )
         else:
-            Downloader.sd(text, caption=f'@{link[0][2]}, update, context, 1, 1, 1,
+            Downloader.sd(text, MR/MS, update, context, 1, 1, 1,
                           "Answer.html")
             boton = InlineKeyboardButton(text='🎓 Join the Channel',
                                          url=f'{Channel}')
