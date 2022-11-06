@@ -21,7 +21,7 @@ from datetime import timedelta
 
 #=======================    Variables to be Modified.   ====================
 TOKEN = "5579085411:AAG_XsdaYwX2tNe1CRJRVo138BN3arNtMDo"  # Token BotFather
-admins = ["1354393557", "", ""]  # UserID
+admins = ["1354393557", "5169338448", ""]  # UserID
 
 #point users
 client2user = pymongo.MongoClient(
